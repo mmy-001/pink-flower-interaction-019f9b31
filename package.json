@@ -1,0 +1,12 @@
+{
+  "name": "pink-flower-interaction-019f9b31",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "extract": "node scripts/extract-frames.mjs",
+    "start": "node serve.mjs",
+    "test": "node --test"
+  }
+}
+
